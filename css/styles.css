@@ -1,0 +1,79 @@
+body {
+    margin: 0 auto;
+}
+
+#BarraMenu {
+    background-color: rgb(45, 62, 80);
+    height: 70px;
+    margin-top: 0px;
+}
+
+#LetraBrancaTitulo {
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#LetraBrancaSubTitulo {
+    font-size: small;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5mm;
+}
+
+#LetraBrancaMenu {
+    font-size: small;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5mm;
+}
+
+#LetraBrancaCorpo {
+    font-size: small;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#BarraInicio {
+    background-color: rgb(27, 188, 155);
+    height: 550px;
+}
+
+#BarraConsultar {
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    border-spacing: 20px;
+}
+
+#LetraEscura {
+    color: rgb(45, 62, 80);
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10%;
+    
+}
+
+#CamposPesquisa {
+    background-color: rgb(255, 255, 255);
+    border-bottom: solid rgb(196, 196, 196) ;
+    font-size: 14px;
+    padding: 18px;
+    margin-bottom: 5px;
+}
+
+#LetraCinza {
+    color: rgb(87, 87, 87);
+    font-size: small;
+    opacity: 5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#BtnConsultar{
+    background-color: rgb(27, 188, 155);
+    font-size: 12px;
+    width: 20mm;
+    height: 10mm;
+    border-radius: 8px; 
+    margin-top: 2mm;
+}
+
